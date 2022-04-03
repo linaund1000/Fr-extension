@@ -1,0 +1,11 @@
+{
+    "name":"Bunch of words demo",
+    "description": "Fraze.it site accordingly needed word",
+    "version":"1.0",
+    "manifest_version":3,
+    "action": {
+        "default_icon": "32fr.png",
+        "default_popup": "popup.html",
+        "default_title": "Click Me"
+    }
+}
